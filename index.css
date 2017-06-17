@@ -1,0 +1,13 @@
+h1 {
+ text-align: center; 
+ color: Red;
+}
+body {
+  background-repeat: no-repeat;
+}
+#myp {
+  color: Black;
+}
+.button {
+  text-align: center;
+}
