@@ -1,13 +1,16 @@
 h1 {
  text-align: center; 
- color: Red;
-}
-body {
-  background-repeat: no-repeat;
-}
-#myp {
-  color: Black;
+ border: double;
+ border-width: 5px;
+ border-left-color: red;
+ border-right-color: blue;
+ border-top-color: White;
+ border-bottom-color: White;
+ color: Black;
 }
 .button {
   text-align: center;
+}
+body {
+  background-color: White;
 }
