@@ -12,9 +12,11 @@ h1 {
   text-align: center;
 }
 body {
-  background-color: White;
+  background-image: url("https://previews.123rf.com/images/imichman/imichman1506/imichman150600044/40482046-Seamless-pattern-Simple-texture-with-the-repeating-pixel-triangles-Pixel-background-Repeating-small--Stock-Vector.jpg");
+  font-weight: bold;
 }
 #myp {
   border: solid;
   border-color: lightblue;
+  font-weight: bold;
 }
